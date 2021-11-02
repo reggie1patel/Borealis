@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - MenuCheck
+  - Enemy
+  - KillBlock
+  - HeadStomper
+  - FinishLevel
+  - GM
+  - FinishLevel1
+  - FinishLevel2
+  - BulletKiller
+  - FinishLevel3
+  - XGrave
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Obstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Title
+    uniqueID: 2973285825
+    locked: 0
+  - name: Button
+    uniqueID: 3178473383
+    locked: 0
+  - name: ButtonText
+    uniqueID: 3116435165
+    locked: 0
+  - name: Sky
+    uniqueID: 3046549213
+    locked: 0
+  - name: Moon
+    uniqueID: 2326001511
+    locked: 0
+  - name: Background
+    uniqueID: 2942796967
+    locked: 0
+  - name: Ground
+    uniqueID: 3045692679
+    locked: 0
+  - name: Platforms
+    uniqueID: 3105385173
+    locked: 0
+  - name: Gradient
+    uniqueID: 2725945137
+    locked: 0
+  - name: Checkpoints
+    uniqueID: 1127213371
+    locked: 0
+  - name: X
+    uniqueID: 1785764139
+    locked: 0
+  - name: Gek
+    uniqueID: 1762014919
+    locked: 0
+  - name: Enemy
+    uniqueID: 3463904941
+    locked: 0
+  - name: Trees
+    uniqueID: 1651211497
+    locked: 0
+  - name: KillBlock
+    uniqueID: 3630555085
+    locked: 0
